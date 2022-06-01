@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Taylor;
-- 👀 I’m interested in front-end web dev with a focus on e-commerce;
-- ⚙️ I’m currently learning JavaScript, Vue, & Shopify Liquid;
-- 🧩 I’m looking to collaborate on e-commerce projects involving Shopify;
+- 👀 I’m a designer;
+- ⚙️ I’m currently building websites for clients using Figma and Webflow;
+- 🧩 I’m also working with the Webstudio team to build tomorrow's open-source site builder;
 - 📫 Visit me on Twitter: @TaylorNowotny
 - 💻 Check out my portfolio website => TaylorNowotny.com
 
